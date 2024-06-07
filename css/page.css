@@ -73,6 +73,33 @@ h1{
   padding: 10px;
   margin: 30px;
 }
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  font-size: 1.6rem;
+}
+.box1{
+  border:5px solid hsl(0, 0%, 0%);
+  padding: 10px;
+  margin: 30px;
+  width: 800px;
+  height: 800px;
+}
+
+.box2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stack{
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .last{
   width: 1500px;
   height: 100px;
