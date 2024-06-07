@@ -10,6 +10,7 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+
 img{
   padding: 10px;
 }
@@ -62,7 +63,6 @@ h1{
   align-items: center;
   padding: 30px;
 }
-
 h2{
   display: flex;
   justify-content: center;
@@ -76,7 +76,6 @@ h2{
   margin: 30px;
   width: 900px;
   height: 800px;
- background-color: beige;
 }
 
 .box2{
@@ -94,6 +93,6 @@ h2{
 .last{
   width: 1500px;
   height: 100px;
-  background-color: rgba(152, 179, 228, 0.678);
+  background-color: rgba(192, 202, 231, 0.678);
   margin-top: 40px;
 }
