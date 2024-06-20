@@ -1,4 +1,5 @@
-# jungsuryeon.github.io
+# 깃허브 주소 : https://github.com/jungsuryeon/jungsuryeon.github.io
+# 사이트 주소 : jungsuryeon.github.io
 # 20242389 정수련
 
 # 직접 테마 디자인
